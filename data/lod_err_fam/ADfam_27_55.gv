@@ -1,0 +1,28 @@
+digraph {
+	"27_55_83833" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_55_84438x27_55_84437" -> "27_55_83833"
+	"27_55_84798" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_55_84966x27_55_83832" -> "27_55_84798"
+	"27_55_84619" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_55_84438x27_55_84437" -> "27_55_84619"
+	"27_55_83832" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_55_84438x27_55_84437" -> "27_55_83832"
+	"27_55_83832" -> "27_55_84966x27_55_83832"
+	"27_55_84435" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_55_84435" -> "27_55_84436x27_55_84435"
+	"27_55_60181" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_55_84436x27_55_84435" -> "27_55_60181"
+	"27_55_84436" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_55_84436" -> "27_55_84436x27_55_84435"
+	"27_55_84437" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_55_84437" -> "27_55_84438x27_55_84437"
+	"27_55_84438" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_55_84438" -> "27_55_84438x27_55_84437"
+	"27_55_84834" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_55_84966x27_55_83832" -> "27_55_84834"
+	"27_55_84966" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_55_84966" -> "27_55_84966x27_55_83832"
+	"27_55_84438x27_55_84437" [label="" height=.1 shape=diamond width=.1]
+	"27_55_84966x27_55_83832" [label="" height=.1 shape=diamond width=.1]
+	"27_55_84436x27_55_84435" [label="" height=.1 shape=diamond width=.1]
+}

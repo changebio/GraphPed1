@@ -1,0 +1,43 @@
+digraph {
+	"10R_R99_15" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R99_8x10R_R99_7" -> "10R_R99_15"
+	"10R_R99_15" -> "10R_R99_29x10R_R99_15"
+	"10R_R99_12" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R99_8x10R_R99_7" -> "10R_R99_12"
+	"10R_R99_1" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R99_8x10R_R99_7" -> "10R_R99_1"
+	"10R_R99_1" -> "10R_R99_2x10R_R99_1"
+	"10R_R99_5" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_8x10R_R99_7" -> "10R_R99_5"
+	"10R_R99_5" -> "10R_R99_19x10R_R99_5"
+	"10R_R99_6" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R99_8x10R_R99_7" -> "10R_R99_6"
+	"10R_R99_10" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R99_2x10R_R99_1" -> "10R_R99_10"
+	"10R_R99_17" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_29x10R_R99_15" -> "10R_R99_17"
+	"10R_R99_19" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_2x10R_R99_1" -> "10R_R99_19"
+	"10R_R99_19" -> "10R_R99_19x10R_R99_5"
+	"10R_R99_2" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_2" -> "10R_R99_2x10R_R99_1"
+	"10R_R99_20" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_2x10R_R99_1" -> "10R_R99_20"
+	"10R_R99_21" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_2x10R_R99_1" -> "10R_R99_21"
+	"10R_R99_22" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_29x10R_R99_15" -> "10R_R99_22"
+	"10R_R99_29" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_29" -> "10R_R99_29x10R_R99_15"
+	"10R_R99_7" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R99_7" -> "10R_R99_8x10R_R99_7"
+	"10R_R99_8" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R99_8" -> "10R_R99_8x10R_R99_7"
+	"10R_R99_8" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R99_19x10R_R99_5" -> "10R_R99_8"
+	"10R_R99_8" -> "10R_R99_8x10R_R99_7"
+	"10R_R99_19x10R_R99_5" [label="" height=.1 shape=diamond width=.1]
+	"10R_R99_2x10R_R99_1" [label="" height=.1 shape=diamond width=.1]
+	"10R_R99_29x10R_R99_15" [label="" height=.1 shape=diamond width=.1]
+	"10R_R99_8x10R_R99_7" [label="" height=.1 shape=diamond width=.1]
+}

@@ -1,0 +1,41 @@
+digraph {
+	"27_126_85179" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85178x27_126_85180" -> "27_126_85179"
+	"27_126_85000" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85088x27_126_85087" -> "27_126_85000"
+	"27_126_85000" -> "27_126_85185x27_126_85000"
+	"27_126_85004" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85088x27_126_85087" -> "27_126_85004"
+	"27_126_85004" -> "27_126_85004x27_126_86560"
+	"27_126_85005" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85088x27_126_85087" -> "27_126_85005"
+	"27_126_85087" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85087" -> "27_126_85088x27_126_85087"
+	"27_126_85088" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_126_85088" -> "27_126_85088x27_126_85087"
+	"27_126_85178" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_126_85088x27_126_85087" -> "27_126_85178"
+	"27_126_85178" -> "27_126_85178x27_126_85180"
+	"27_126_85180" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85180" -> "27_126_85178x27_126_85180"
+	"27_126_85181" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_126_85178x27_126_85180" -> "27_126_85181"
+	"27_126_85184" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85185x27_126_85000" -> "27_126_85184"
+	"27_126_85185" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_126_85185" -> "27_126_85185x27_126_85000"
+	"27_126_85224" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_126_85185x27_126_85000" -> "27_126_85224"
+	"27_126_85225" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_126_85185x27_126_85000" -> "27_126_85225"
+	"27_126_85025" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85185x27_126_85000" -> "27_126_85025"
+	"27_126_86560" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_126_86560" -> "27_126_85004x27_126_86560"
+	"27_126_86559" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_126_85004x27_126_86560" -> "27_126_86559"
+	"27_126_85004x27_126_86560" [label="" height=.1 shape=diamond width=.1]
+	"27_126_85185x27_126_85000" [label="" height=.1 shape=diamond width=.1]
+	"27_126_85088x27_126_85087" [label="" height=.1 shape=diamond width=.1]
+	"27_126_85178x27_126_85180" [label="" height=.1 shape=diamond width=.1]
+}

@@ -1,0 +1,32 @@
+digraph {
+	"27_152_85525" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_152_85524x27_152_85523" -> "27_152_85525"
+	"27_152_63599" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_152_85524x27_152_85523" -> "27_152_63599"
+	"27_152_85522" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_152_85524x27_152_85523" -> "27_152_85522"
+	"27_152_85523" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_152_85523" -> "27_152_85524x27_152_85523"
+	"27_152_85524" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_152_85524" -> "27_152_85524x27_152_85523"
+	"27_152_85526" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_152_85524x27_152_85523" -> "27_152_85526"
+	"27_152_85541" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_152_85524x27_152_85523" -> "27_152_85541"
+	"27_152_85554" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_152_85524x27_152_85523" -> "27_152_85554"
+	"27_152_85908" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_152_85524x27_152_85523" -> "27_152_85908"
+	"27_152_85909" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_152_85524x27_152_85523" -> "27_152_85909"
+	"27_152_85910" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_152_85912x27_152_85911" -> "27_152_85910"
+	"27_152_85911" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_152_85911" -> "27_152_85912x27_152_85911"
+	"27_152_85912" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_152_85912" -> "27_152_85912x27_152_85911"
+	"27_152_86139" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_152_86140" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_152_85912x27_152_85911" [label="" height=.1 shape=diamond width=.1]
+	"27_152_85524x27_152_85523" [label="" height=.1 shape=diamond width=.1]
+}

@@ -1,0 +1,146 @@
+digraph {
+	"8_7" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_9x8_99" -> "8_7"
+	"8_17" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_29x8_30" -> "8_17"
+	"8_30" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_32x8_31" -> "8_30"
+	"8_30" -> "8_29x8_30"
+	"8_29" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_29" -> "8_29x8_30"
+	"8_11" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_29x8_30" -> "8_11"
+	"8_10" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_29x8_30" -> "8_10"
+	"8_10" -> "8_10x8_28"
+	"8_8" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_9x8_99" -> "8_8"
+	"8_4" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_1x8_2" -> "8_4"
+	"8_3" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_1x8_2" -> "8_3"
+	"8_2" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_2" -> "8_1x8_2"
+	"8_31" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_40x8_41" -> "8_31"
+	"8_31" -> "8_32x8_31"
+	"8_32" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_32" -> "8_32x8_31"
+	"8_41" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_41" -> "8_40x8_41"
+	"8_99" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_1x8_2" -> "8_99"
+	"8_99" -> "8_9x8_99"
+	"8_40" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_40" -> "8_40x8_41"
+	"8_9" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_29x8_30" -> "8_9"
+	"8_9" -> "8_9x8_99"
+	"8_35" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_1x8_2" -> "8_35"
+	"8_38" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_1x8_2" -> "8_38"
+	"8_38" -> "8_38x8_49"
+	"8_39" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_1x8_2" -> "8_39"
+	"8_33" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_1x8_2" -> "8_33"
+	"8_36" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_1x8_2" -> "8_36"
+	"8_34" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_1x8_2" -> "8_34"
+	"8_37" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_1x8_2" -> "8_37"
+	"8_19" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_19" -> "8_19x8_18"
+	"8_21" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_19x8_18" -> "8_21"
+	"8_22" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_19x8_18" -> "8_22"
+	"8_28" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_28" -> "8_10x8_28"
+	"8_20" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_19x8_18" -> "8_20"
+	"8_42" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_42" -> "8_42x8_13"
+	"8_44" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_44" -> "8_5x8_44"
+	"8_16" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_29x8_30" -> "8_16"
+	"8_5" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_9x8_99" -> "8_5"
+	"8_5" -> "8_5x8_44"
+	"8_58" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_5x8_44" -> "8_58"
+	"8_48" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_53x8_15" -> "8_48"
+	"8_48" -> "8_48x8_57"
+	"8_27" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_10x8_28" -> "8_27"
+	"8_24" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_10x8_28" -> "8_24"
+	"8_25" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_10x8_28" -> "8_25"
+	"8_15" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_29x8_30" -> "8_15"
+	"8_15" -> "8_53x8_15"
+	"8_6" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_9x8_99" -> "8_6"
+	"8_23" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_10x8_28" -> "8_23"
+	"8_18" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_29x8_30" -> "8_18"
+	"8_18" -> "8_19x8_18"
+	"8_43" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_42x8_13" -> "8_43"
+	"8_DCH48.57" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=polygon style=filled width=0.5]
+	"8_48x8_57" -> "8_DCH48.57"
+	"8_56" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_42x8_13" -> "8_56"
+	"8_55" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_42x8_13" -> "8_55"
+	"8_47" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_38x8_49" -> "8_47"
+	"8_46" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_38x8_49" -> "8_46"
+	"8_49" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_49" -> "8_38x8_49"
+	"8_51" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_53x8_15" -> "8_51"
+	"8_50" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_53x8_15" -> "8_50"
+	"8_52" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_53x8_15" -> "8_52"
+	"8_54" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_53x8_15" -> "8_54"
+	"8_53" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_53" -> "8_53x8_15"
+	"8_45" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_5x8_44" -> "8_45"
+	"8_57" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_57" -> "8_48x8_57"
+	"8_26" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_10x8_28" -> "8_26"
+	"8_1" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_40x8_41" -> "8_1"
+	"8_1" -> "8_1x8_2"
+	"8_14" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_29x8_30" -> "8_14"
+	"8_13" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_29x8_30" -> "8_13"
+	"8_13" -> "8_42x8_13"
+	"8_12" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_29x8_30" -> "8_12"
+	"8_29x8_30" [label="" height=.1 shape=diamond width=.1]
+	"8_9x8_99" [label="" height=.1 shape=diamond width=.1]
+	"8_40x8_41" [label="" height=.1 shape=diamond width=.1]
+	"8_19x8_18" [label="" height=.1 shape=diamond width=.1]
+	"8_48x8_57" [label="" height=.1 shape=diamond width=.1]
+	"8_38x8_49" [label="" height=.1 shape=diamond width=.1]
+	"8_32x8_31" [label="" height=.1 shape=diamond width=.1]
+	"8_42x8_13" [label="" height=.1 shape=diamond width=.1]
+	"8_53x8_15" [label="" height=.1 shape=diamond width=.1]
+	"8_10x8_28" [label="" height=.1 shape=diamond width=.1]
+	"8_1x8_2" [label="" height=.1 shape=diamond width=.1]
+	"8_5x8_44" [label="" height=.1 shape=diamond width=.1]
+}

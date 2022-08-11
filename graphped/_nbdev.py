@@ -2,8 +2,12 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"GraphPedCli": "00_plotped.ipynb",
+index = {"get_args": "00_plotped.ipynb",
+         "GraphPedCli": "00_plotped.ipynb",
          "GraphPed": "00_plotped.ipynb",
+         "readped": "00_plotped.ipynb",
+         "load_yaml": "00_plotped.ipynb",
+         "show": "00_plotped.ipynb",
          "update_attributes": "00_plotped.ipynb",
          "plotped": "00_plotped.ipynb"}
 

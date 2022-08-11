@@ -1,0 +1,60 @@
+digraph {
+	"8_64036_3" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_1x8_64036_2" -> "8_64036_3"
+	"8_64036_18" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_22x8_64036_23" -> "8_64036_18"
+	"8_64036_18" -> "8_64036_18x8_64036_19"
+	"8_64036_1" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_22x8_64036_23" -> "8_64036_1"
+	"8_64036_1" -> "8_64036_1x8_64036_2"
+	"8_64036_4" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_1x8_64036_2" -> "8_64036_4"
+	"8_64036_7" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_1x8_64036_2" -> "8_64036_7"
+	"8_64036_7" -> "8_64036_7x8_64036_38"
+	"8_64036_28" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_27x8_64036_26" -> "8_64036_28"
+	"8_64036_28" -> "8_64036_28x8_64036_29"
+	"8_64036_2" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_2" -> "8_64036_1x8_64036_2"
+	"8_64036_41" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_41" -> "8_64036_40x8_64036_41"
+	"8_64036_30" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_28x8_64036_29" -> "8_64036_30"
+	"8_64036_39" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=polygon style=filled width=0.5]
+	"8_64036_7x8_64036_38" -> "8_64036_39"
+	"8_64036_38" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_38" -> "8_64036_7x8_64036_38"
+	"8_64036_29" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_29" -> "8_64036_28x8_64036_29"
+	"8_64036_27" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_40x8_64036_41" -> "8_64036_27"
+	"8_64036_27" -> "8_64036_27x8_64036_26"
+	"8_64036_26" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_24x8_64036_25" -> "8_64036_26"
+	"8_64036_26" -> "8_64036_27x8_64036_26"
+	"8_64036_25" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_25" -> "8_64036_24x8_64036_25"
+	"8_64036_24" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_24" -> "8_64036_24x8_64036_25"
+	"8_64036_22" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_40x8_64036_41" -> "8_64036_22"
+	"8_64036_22" -> "8_64036_22x8_64036_23"
+	"8_64036_20" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_18x8_64036_19" -> "8_64036_20"
+	"8_64036_19" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_19" -> "8_64036_18x8_64036_19"
+	"8_64036_40" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"8_64036_40" -> "8_64036_40x8_64036_41"
+	"8_64036_23" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"8_64036_24x8_64036_25" -> "8_64036_23"
+	"8_64036_23" -> "8_64036_22x8_64036_23"
+	"8_64036_7x8_64036_38" [label="" height=.1 shape=diamond width=.1]
+	"8_64036_18x8_64036_19" [label="" height=.1 shape=diamond width=.1]
+	"8_64036_28x8_64036_29" [label="" height=.1 shape=diamond width=.1]
+	"8_64036_24x8_64036_25" [label="" height=.1 shape=diamond width=.1]
+	"8_64036_27x8_64036_26" [label="" height=.1 shape=diamond width=.1]
+	"8_64036_22x8_64036_23" [label="" height=.1 shape=diamond width=.1]
+	"8_64036_1x8_64036_2" [label="" height=.1 shape=diamond width=.1]
+	"8_64036_40x8_64036_41" [label="" height=.1 shape=diamond width=.1]
+}

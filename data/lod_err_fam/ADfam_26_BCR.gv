@@ -1,0 +1,122 @@
+digraph {
+	"26_BCR_BCR18868" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18854x26_BCR_BCR18845" -> "26_BCR_BCR18868"
+	"26_BCR_BCR18867" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18854x26_BCR_BCR18845" -> "26_BCR_BCR18867"
+	"26_BCR_BCR18846" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18846"
+	"26_BCR_BCR18844" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18844"
+	"26_BCR_BCR18844" -> "26_BCR_BCR18844cx26_BCR_BCR18844"
+	"26_BCR_BCR18804" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18804"
+	"26_BCR_BCR18804" -> "26_BCR_BCR18861x26_BCR_BCR18804"
+	"26_BCR_BCR18864" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18851x26_BCR_BCR18803" -> "26_BCR_BCR18864"
+	"26_BCR_BCR18856" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18857x26_BCR_BCR18802" -> "26_BCR_BCR18856"
+	"26_BCR_BCR18844c" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18844c" -> "26_BCR_BCR18844cx26_BCR_BCR18844"
+	"26_BCR_BCR18851" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18851" -> "26_BCR_BCR18851x26_BCR_BCR18803"
+	"26_BCR_BCR18852" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18851x26_BCR_BCR18803" -> "26_BCR_BCR18852"
+	"26_BCR_BCR18853" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18854x26_BCR_BCR18845" -> "26_BCR_BCR18853"
+	"26_BCR_BCR18854" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18854" -> "26_BCR_BCR18854x26_BCR_BCR18845"
+	"26_BCR_BCR18857" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18857" -> "26_BCR_BCR18857x26_BCR_BCR18802"
+	"26_BCR_BCR18860" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18860" -> "26_BCR_BCR18838x26_BCR_BCR18860"
+	"26_BCR_BCR18861" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18861" -> "26_BCR_BCR18861x26_BCR_BCR18804"
+	"26_BCR_BCR18865" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18865" -> "26_BCR_BCR18865x26_BCR_BCR18850"
+	"26_BCR_BCR18866" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18825" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18825" -> "26_BCR_BCR18825x26_BCR_BCR18824"
+	"26_BCR_BCR18850" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18851x26_BCR_BCR18803" -> "26_BCR_BCR18850"
+	"26_BCR_BCR18850" -> "26_BCR_BCR18865x26_BCR_BCR18850"
+	"26_BCR_BCR18826" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18818x26_BCR_BCR18817" -> "26_BCR_BCR18826"
+	"26_BCR_BCR18826" -> "26_BCR_BCR18826x26_BCR_BCR18849"
+	"26_BCR_BCR18848" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18826x26_BCR_BCR18849" -> "26_BCR_BCR18848"
+	"26_BCR_BCR18835" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18822x26_BCR_BCR18823" -> "26_BCR_BCR18835"
+	"26_BCR_BCR18802" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18802"
+	"26_BCR_BCR18802" -> "26_BCR_BCR18857x26_BCR_BCR18802"
+	"26_BCR_BCR18834" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18822x26_BCR_BCR18823" -> "26_BCR_BCR18834"
+	"26_BCR_BCR18849" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18849" -> "26_BCR_BCR18826x26_BCR_BCR18849"
+	"26_BCR_BCR18803" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18803"
+	"26_BCR_BCR18803" -> "26_BCR_BCR18851x26_BCR_BCR18803"
+	"26_BCR_BCR18817" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18817" -> "26_BCR_BCR18818x26_BCR_BCR18817"
+	"26_BCR_BCR18818" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18818" -> "26_BCR_BCR18818x26_BCR_BCR18817"
+	"26_BCR_BCR18837" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18837"
+	"26_BCR_BCR18832" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18822x26_BCR_BCR18823" -> "26_BCR_BCR18832"
+	"26_BCR_BCR18830" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18822x26_BCR_BCR18823" -> "26_BCR_BCR18830"
+	"26_BCR_BCR18822" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18818x26_BCR_BCR18817" -> "26_BCR_BCR18822"
+	"26_BCR_BCR18822" -> "26_BCR_BCR18822x26_BCR_BCR18823"
+	"26_BCR_BCR18823" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18823" -> "26_BCR_BCR18822x26_BCR_BCR18823"
+	"26_BCR_BCR18855" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18857x26_BCR_BCR18802" -> "26_BCR_BCR18855"
+	"26_BCR_BCR18829" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18822x26_BCR_BCR18823" -> "26_BCR_BCR18829"
+	"26_BCR_BCR18845" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18845"
+	"26_BCR_BCR18845" -> "26_BCR_BCR18854x26_BCR_BCR18845"
+	"26_BCR_BCR18824" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18818x26_BCR_BCR18817" -> "26_BCR_BCR18824"
+	"26_BCR_BCR18824" -> "26_BCR_BCR18825x26_BCR_BCR18824"
+	"26_BCR_BCR18831" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18822x26_BCR_BCR18823" -> "26_BCR_BCR18831"
+	"26_BCR_BCR18838" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18838"
+	"26_BCR_BCR18838" -> "26_BCR_BCR18838x26_BCR_BCR18860"
+	"26_BCR_BCR18833" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18822x26_BCR_BCR18823" -> "26_BCR_BCR18833"
+	"26_BCR_BCR18841" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18841"
+	"26_BCR_BCR18839" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18839"
+	"26_BCR_BCR18847" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18826x26_BCR_BCR18849" -> "26_BCR_BCR18847"
+	"26_BCR_BCR18859" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18861x26_BCR_BCR18804" -> "26_BCR_BCR18859"
+	"26_BCR_BCR18843" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18843"
+	"26_BCR_BCR18842" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18842"
+	"26_BCR_BCR18858" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18838x26_BCR_BCR18860" -> "26_BCR_BCR18858"
+	"26_BCR_BCR18840" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_BCR_BCR18825x26_BCR_BCR18824" -> "26_BCR_BCR18840"
+	"26_BCR_BCR18863" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18844cx26_BCR_BCR18844" -> "26_BCR_BCR18863"
+	"26_BCR_BCR18862" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_BCR_BCR18865x26_BCR_BCR18850" -> "26_BCR_BCR18862"
+	"26_BCR_BCR18854x26_BCR_BCR18845" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18822x26_BCR_BCR18823" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18851x26_BCR_BCR18803" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18857x26_BCR_BCR18802" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18826x26_BCR_BCR18849" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18844cx26_BCR_BCR18844" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18861x26_BCR_BCR18804" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18865x26_BCR_BCR18850" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18838x26_BCR_BCR18860" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18825x26_BCR_BCR18824" [label="" height=.1 shape=diamond width=.1]
+	"26_BCR_BCR18818x26_BCR_BCR18817" [label="" height=.1 shape=diamond width=.1]
+}

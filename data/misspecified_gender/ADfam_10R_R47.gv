@@ -1,0 +1,68 @@
+digraph {
+	"10R_R47_15" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_5x10R_R47_4" -> "10R_R47_15"
+	"10R_R47_44" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_44"
+	"10R_R47_46" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_45x10R_R47_11" -> "10R_R47_46"
+	"10R_R47_47" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_47"
+	"10R_R47_50" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_50"
+	"10R_R47_52" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_52"
+	"10R_R47_42" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_41x10R_R47_10" -> "10R_R47_42"
+	"10R_R47_61" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_45x10R_R47_11" -> "10R_R47_61"
+	"10R_R47_24" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_30x10R_R47_7" -> "10R_R47_24"
+	"10R_R47_10" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_5x10R_R47_4" -> "10R_R47_10"
+	"10R_R47_10" -> "10R_R47_41x10R_R47_10"
+	"10R_R47_21" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_30x10R_R47_7" -> "10R_R47_21"
+	"10R_R47_1" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_5x10R_R47_4" -> "10R_R47_1"
+	"10R_R47_1" -> "10R_R47_43x10R_R47_1"
+	"10R_R47_1" -> "10R_R47_1x10R_R47_43"
+	"10R_R47_11" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_5x10R_R47_4" -> "10R_R47_11"
+	"10R_R47_11" -> "10R_R47_45x10R_R47_11"
+	"10R_R47_18" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_30x10R_R47_7" -> "10R_R47_18"
+	"10R_R47_30" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_30" -> "10R_R47_30x10R_R47_7"
+	"10R_R47_4" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_4" -> "10R_R47_5x10R_R47_4"
+	"10R_R47_41" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_41" -> "10R_R47_41x10R_R47_10"
+	"10R_R47_43" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_43" -> "10R_R47_43x10R_R47_1"
+	"10R_R47_43" -> "10R_R47_1x10R_R47_43"
+	"10R_R47_45" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_45" -> "10R_R47_45x10R_R47_11"
+	"10R_R47_5" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_5" -> "10R_R47_5x10R_R47_4"
+	"10R_R47_53" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_53"
+	"10R_R47_54" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_54"
+	"10R_R47_55" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_55"
+	"10R_R47_56" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_56"
+	"10R_R47_57" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_43x10R_R47_1" -> "10R_R47_57"
+	"10R_R47_7" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"10R_R47_5x10R_R47_4" -> "10R_R47_7"
+	"10R_R47_7" -> "10R_R47_30x10R_R47_7"
+	"10R_R47_62" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"10R_R47_1x10R_R47_43" -> "10R_R47_62"
+	"10R_R47_43x10R_R47_1" [label="" height=.1 shape=diamond width=.1]
+	"10R_R47_30x10R_R47_7" [label="" height=.1 shape=diamond width=.1]
+	"10R_R47_45x10R_R47_11" [label="" height=.1 shape=diamond width=.1]
+	"10R_R47_5x10R_R47_4" [label="" height=.1 shape=diamond width=.1]
+	"10R_R47_1x10R_R47_43" [label="" height=.1 shape=diamond width=.1]
+	"10R_R47_41x10R_R47_10" [label="" height=.1 shape=diamond width=.1]
+}

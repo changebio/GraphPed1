@@ -1,0 +1,20 @@
+digraph {
+	"1858_4" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1858_1x1858_2" -> "1858_4"
+	"1858_7" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1858_1x1858_2" -> "1858_7"
+	"1858_5" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1858_1x1858_2" -> "1858_5"
+	"1858_3" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1858_1x1858_2" -> "1858_3"
+	"1858_6" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1858_1x1858_2" -> "1858_6"
+	"1858_99" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1858_1x1858_2" -> "1858_99"
+	"1858_2" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1858_2" -> "1858_1x1858_2"
+	"1858_01" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1858_1" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1858_1" -> "1858_1x1858_2"
+	"1858_1x1858_2" [label="" height=.1 shape=diamond width=.1]
+}

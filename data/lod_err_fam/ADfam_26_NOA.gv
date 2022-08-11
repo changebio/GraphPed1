@@ -1,0 +1,64 @@
+digraph {
+	"26_NOA_NOA87614" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87614" -> "26_NOA_NOA87605x26_NOA_NOA87614"
+	"26_NOA_NOA87609" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87609"
+	"26_NOA_NOA87612" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87612"
+	"26_NOA_NOA87628" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87607x26_NOA_NOA87617" -> "26_NOA_NOA87628"
+	"26_NOA_NOA87615" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87615" -> "26_NOA_NOA87615x26_NOA_NOA87606"
+	"26_NOA_NOA87631" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA97618x26_NOA_NOA97608" -> "26_NOA_NOA87631"
+	"26_NOA_NOA87624" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87605x26_NOA_NOA87614" -> "26_NOA_NOA87624"
+	"26_NOA_NOA87626" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87615x26_NOA_NOA87606" -> "26_NOA_NOA87626"
+	"26_NOA_NOA87629" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87607x26_NOA_NOA87617" -> "26_NOA_NOA87629"
+	"26_NOA_NOA87625" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87605x26_NOA_NOA87614" -> "26_NOA_NOA87625"
+	"26_NOA_NOA87613" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87613"
+	"26_NOA_NOA97618" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA97618" -> "26_NOA_NOA97618x26_NOA_NOA97608"
+	"26_NOA_NOA87610" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87610"
+	"26_NOA_NOA97608" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA97608" -> "26_NOA_NOA97618x26_NOA_NOA97608"
+	"26_NOA_NOA87611" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87611"
+	"26_NOA_NOA87608" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87608"
+	"26_NOA_NOA87608" -> "26_NOA_NOA87618x26_NOA_NOA87608"
+	"26_NOA_NOA87618" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87618" -> "26_NOA_NOA87618x26_NOA_NOA87608"
+	"26_NOA_NOA87602" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87602"
+	"26_NOA_NOA87617" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87617" -> "26_NOA_NOA87607x26_NOA_NOA87617"
+	"26_NOA_NOA87601" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87615x26_NOA_NOA87606" -> "26_NOA_NOA87601"
+	"26_NOA_NOA87603" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87603" -> "26_NOA_NOA87603x26_NOA_NOA87604"
+	"26_NOA_NOA87632" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87618x26_NOA_NOA87608" -> "26_NOA_NOA87632"
+	"26_NOA_NOA87605" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87605"
+	"26_NOA_NOA87605" -> "26_NOA_NOA87605x26_NOA_NOA87614"
+	"26_NOA_NOA87606" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87606"
+	"26_NOA_NOA87606" -> "26_NOA_NOA87615x26_NOA_NOA87606"
+	"26_NOA_NOA87607" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_NOA_NOA87603x26_NOA_NOA87604" -> "26_NOA_NOA87607"
+	"26_NOA_NOA87607" -> "26_NOA_NOA87607x26_NOA_NOA87617"
+	"26_NOA_NOA87604" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_NOA_NOA87604" -> "26_NOA_NOA87603x26_NOA_NOA87604"
+	"26_NOA_NOA87605x26_NOA_NOA87614" [label="" height=.1 shape=diamond width=.1]
+	"26_NOA_NOA87618x26_NOA_NOA87608" [label="" height=.1 shape=diamond width=.1]
+	"26_NOA_NOA87615x26_NOA_NOA87606" [label="" height=.1 shape=diamond width=.1]
+	"26_NOA_NOA87603x26_NOA_NOA87604" [label="" height=.1 shape=diamond width=.1]
+	"26_NOA_NOA97618x26_NOA_NOA97608" [label="" height=.1 shape=diamond width=.1]
+	"26_NOA_NOA87607x26_NOA_NOA87617" [label="" height=.1 shape=diamond width=.1]
+}

@@ -1,0 +1,52 @@
+digraph {
+	"27_70_84229" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_84462x27_70_84461" -> "27_70_84229"
+	"27_70_84229" -> "27_70_84871x27_70_84229"
+	"27_70_84461" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_84461" -> "27_70_84462x27_70_84461"
+	"27_70_84462" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84462" -> "27_70_84462x27_70_84461"
+	"27_70_84865" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84871x27_70_84229" -> "27_70_84865"
+	"27_70_84892" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_84895x27_70_84890" -> "27_70_84892"
+	"27_70_84874" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_84462x27_70_84461" -> "27_70_84874"
+	"27_70_84874" -> "27_70_84875x27_70_84874"
+	"27_70_84875" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84875" -> "27_70_84875x27_70_84874"
+	"27_70_85950" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_85950" -> "27_70_85949x27_70_85950"
+	"27_70_85949" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_85949" -> "27_70_85949x27_70_85950"
+	"27_70_85947" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84462x27_70_84461" -> "27_70_85947"
+	"27_70_85946" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_85949x27_70_85950" -> "27_70_85946"
+	"27_70_84895" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84895" -> "27_70_84895x27_70_84890"
+	"27_70_84894" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_84894" -> "27_70_84893x27_70_84894"
+	"27_70_84893" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84462x27_70_84461" -> "27_70_84893"
+	"27_70_84893" -> "27_70_84893x27_70_84894"
+	"27_70_84891" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_84895x27_70_84890" -> "27_70_84891"
+	"27_70_84871" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84871" -> "27_70_84871x27_70_84229"
+	"27_70_85948" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84462x27_70_84461" -> "27_70_85948"
+	"27_70_84228" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84462x27_70_84461" -> "27_70_84228"
+	"27_70_84864" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_70_84875x27_70_84874" -> "27_70_84864"
+	"27_70_84890" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_70_84893x27_70_84894" -> "27_70_84890"
+	"27_70_84890" -> "27_70_84895x27_70_84890"
+	"27_70_84893x27_70_84894" [label="" height=.1 shape=diamond width=.1]
+	"27_70_84462x27_70_84461" [label="" height=.1 shape=diamond width=.1]
+	"27_70_84875x27_70_84874" [label="" height=.1 shape=diamond width=.1]
+	"27_70_84871x27_70_84229" [label="" height=.1 shape=diamond width=.1]
+	"27_70_85949x27_70_85950" [label="" height=.1 shape=diamond width=.1]
+	"27_70_84895x27_70_84890" [label="" height=.1 shape=diamond width=.1]
+}

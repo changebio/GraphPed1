@@ -1,0 +1,18 @@
+digraph {
+	"27_122_11964" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_122_84953x27_122_84952" -> "27_122_11964"
+	"27_122_16055" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_122_84952x27_122_84953" -> "27_122_16055"
+	"27_122_84952" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"27_122_84952" -> "27_122_84953x27_122_84952"
+	"27_122_84952" -> "27_122_84952x27_122_84953"
+	"27_122_84953" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_122_84953" -> "27_122_84953x27_122_84952"
+	"27_122_84953" -> "27_122_84952x27_122_84953"
+	"27_122_85895" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_122_84953x27_122_84952" -> "27_122_85895"
+	"27_122_85896" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"27_122_84953x27_122_84952" -> "27_122_85896"
+	"27_122_84952x27_122_84953" [label="" height=.1 shape=diamond width=.1]
+	"27_122_84953x27_122_84952" [label="" height=.1 shape=diamond width=.1]
+}

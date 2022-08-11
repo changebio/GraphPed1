@@ -1,0 +1,23 @@
+digraph {
+	"26_TCC_TCC65601" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_TCC_TCC65603x26_TCC_TCC65604" -> "26_TCC_TCC65601"
+	"26_TCC_TCC65609" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_TCC_TCC65606x26_TCC_TCC65610" -> "26_TCC_TCC65609"
+	"26_TCC_TCC65602" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_TCC_TCC65603x26_TCC_TCC65604" -> "26_TCC_TCC65602"
+	"26_TCC_TCC65603" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_TCC_TCC65603" -> "26_TCC_TCC65603x26_TCC_TCC65604"
+	"26_TCC_TCC65604" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_TCC_TCC65604" -> "26_TCC_TCC65603x26_TCC_TCC65604"
+	"26_TCC_TCC65606" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_TCC_TCC65603x26_TCC_TCC65604" -> "26_TCC_TCC65606"
+	"26_TCC_TCC65606" -> "26_TCC_TCC65606x26_TCC_TCC65610"
+	"26_TCC_TCC65607" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_TCC_TCC65603x26_TCC_TCC65604" -> "26_TCC_TCC65607"
+	"26_TCC_TCC65608" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"26_TCC_TCC65603x26_TCC_TCC65604" -> "26_TCC_TCC65608"
+	"26_TCC_TCC65610" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"26_TCC_TCC65610" -> "26_TCC_TCC65606x26_TCC_TCC65610"
+	"26_TCC_TCC65603x26_TCC_TCC65604" [label="" height=.1 shape=diamond width=.1]
+	"26_TCC_TCC65606x26_TCC_TCC65610" [label="" height=.1 shape=diamond width=.1]
+}

@@ -1,0 +1,98 @@
+digraph {
+	"540_12" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_6x540_99" -> "540_12"
+	"540_31" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_34x540_35" -> "540_31"
+	"540_31" -> "540_31x540_30"
+	"540_37" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_36x540_32" -> "540_37"
+	"540_30" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_25x540_26" -> "540_30"
+	"540_30" -> "540_31x540_30"
+	"540_29" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_25x540_26" -> "540_29"
+	"540_26" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_26" -> "540_25x540_26"
+	"540_27" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_25x540_26" -> "540_27"
+	"540_25" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_25" -> "540_25x540_26"
+	"540_33" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_31x540_30" -> "540_33"
+	"540_23" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_18x540_5" -> "540_23"
+	"540_22" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_18x540_5" -> "540_22"
+	"540_28" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_25x540_26" -> "540_28"
+	"540_5" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_1x540_2" -> "540_5"
+	"540_5" -> "540_18x540_5"
+	"540_16" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_6x540_99" -> "540_16"
+	"540_10" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_6x540_99" -> "540_10"
+	"540_1" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_34x540_35" -> "540_1"
+	"540_1" -> "540_1x540_2"
+	"540_3" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_1x540_2" -> "540_3"
+	"540_4" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_1x540_2" -> "540_4"
+	"540_6" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_6" -> "540_6x540_99"
+	"540_7" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_6x540_99" -> "540_7"
+	"540_14" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_6x540_99" -> "540_14"
+	"540_32" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_31x540_30" -> "540_32"
+	"540_32" -> "540_36x540_32"
+	"540_8" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_6x540_99" -> "540_8"
+	"540_13" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_6x540_99" -> "540_13"
+	"540_15" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_6x540_99" -> "540_15"
+	"540_2" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_25x540_26" -> "540_2"
+	"540_2" -> "540_1x540_2"
+	"540_24" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_18x540_5" -> "540_24"
+	"540_17" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_6x540_99" -> "540_17"
+	"540_99" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_1x540_2" -> "540_99"
+	"540_99" -> "540_6x540_99"
+	"540_9" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_6x540_99" -> "540_9"
+	"540_11" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_6x540_99" -> "540_11"
+	"540_40" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_36x540_32" -> "540_40"
+	"540_36" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_36" -> "540_36x540_32"
+	"540_19" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_18x540_5" -> "540_19"
+	"540_20" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_18x540_5" -> "540_20"
+	"540_34" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_34" -> "540_34x540_35"
+	"540_21" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_18x540_5" -> "540_21"
+	"540_39" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_36x540_32" -> "540_39"
+	"540_38" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_36x540_32" -> "540_38"
+	"540_35" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"540_35" -> "540_34x540_35"
+	"540_18" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"540_18" -> "540_18x540_5"
+	"540_25x540_26" [label="" height=.1 shape=diamond width=.1]
+	"540_31x540_30" [label="" height=.1 shape=diamond width=.1]
+	"540_1x540_2" [label="" height=.1 shape=diamond width=.1]
+	"540_6x540_99" [label="" height=.1 shape=diamond width=.1]
+	"540_34x540_35" [label="" height=.1 shape=diamond width=.1]
+	"540_36x540_32" [label="" height=.1 shape=diamond width=.1]
+	"540_18x540_5" [label="" height=.1 shape=diamond width=.1]
+}

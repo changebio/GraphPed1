@@ -1,0 +1,98 @@
+digraph {
+	"1280_35" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_35"
+	"1280_4" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_4"
+	"1280_29" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_29"
+	"1280_28" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_28"
+	"1280_41" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_41"
+	"1280_27" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_27"
+	"1280_26" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_26"
+	"1280_24" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_24"
+	"1280_23" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_16x1280_17" -> "1280_23"
+	"1280_22" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_16x1280_17" -> "1280_22"
+	"1280_21" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_16x1280_17" -> "1280_21"
+	"1280_20" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_16x1280_17" -> "1280_20"
+	"1280_19" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_16x1280_17" -> "1280_19"
+	"1280_17" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_17" -> "1280_16x1280_17"
+	"1280_16" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_14x1280_15" -> "1280_16"
+	"1280_16" -> "1280_16x1280_17"
+	"1280_15" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_15" -> "1280_14x1280_15"
+	"1280_14" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_14" -> "1280_14x1280_15"
+	"1280_36" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_36" -> "1280_1x1280_36"
+	"1280_38" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_38"
+	"1280_39" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_39"
+	"1280_40" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_40"
+	"1280_18" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_16x1280_17" -> "1280_18"
+	"1280_18" -> "1280_9x1280_18"
+	"1280_37" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_1x1280_36" -> "1280_37"
+	"1280_25" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_25"
+	"1280_11" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_10x1280_99" -> "1280_11"
+	"1280_6" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_6"
+	"1280_5" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_5"
+	"1280_10" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_10" -> "1280_10x1280_99"
+	"1280_9" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_9"
+	"1280_9" -> "1280_9x1280_18"
+	"1280_3" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_3"
+	"1280_7" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_7"
+	"1280_30" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_30"
+	"1280_13" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_10x1280_99" -> "1280_13"
+	"1280_31" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_31"
+	"1280_1" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_14x1280_15" -> "1280_1"
+	"1280_1" -> "1280_1x1280_2"
+	"1280_1" -> "1280_1x1280_36"
+	"1280_99" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_99"
+	"1280_99" -> "1280_10x1280_99"
+	"1280_8" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_1x1280_2" -> "1280_8"
+	"1280_32" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_32"
+	"1280_12" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_10x1280_99" -> "1280_12"
+	"1280_33" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_33"
+	"1280_34" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_9x1280_18" -> "1280_34"
+	"1280_2" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"1280_2" -> "1280_1x1280_2"
+	"1280_10x1280_99" [label="" height=.1 shape=diamond width=.1]
+	"1280_16x1280_17" [label="" height=.1 shape=diamond width=.1]
+	"1280_14x1280_15" [label="" height=.1 shape=diamond width=.1]
+	"1280_1x1280_2" [label="" height=.1 shape=diamond width=.1]
+	"1280_1x1280_36" [label="" height=.1 shape=diamond width=.1]
+	"1280_9x1280_18" [label="" height=.1 shape=diamond width=.1]
+}

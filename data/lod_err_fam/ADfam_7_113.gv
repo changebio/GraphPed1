@@ -1,0 +1,20 @@
+digraph {
+	"7_113_90046" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"7_113_90046" -> "7_113_90045x7_113_90046"
+	"7_113_90063" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"7_113_90064" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"7_113_10049" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"7_113_90045x7_113_90046" -> "7_113_10049"
+	"7_113_10048" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"7_113_90025x7_113_90026" -> "7_113_10048"
+	"7_113_90045" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"7_113_90045" -> "7_113_90045x7_113_90046"
+	"7_113_90026" [shape=box fillcolor=aquamarine3 fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"7_113_90026" -> "7_113_90025x7_113_90026"
+	"7_113_10047" [shape=box fillcolor=dimgrey fontcolor=black height=0.3 regular=0 shape=ellipse style=filled width=0.5]
+	"7_113_90025x7_113_90026" -> "7_113_10047"
+	"7_113_90025" [shape=box fillcolor=white fontcolor=black height=0.3 regular=0 shape=box style=filled width=0.5]
+	"7_113_90025" -> "7_113_90025x7_113_90026"
+	"7_113_90025x7_113_90026" [label="" height=.1 shape=diamond width=.1]
+	"7_113_90045x7_113_90046" [label="" height=.1 shape=diamond width=.1]
+}
