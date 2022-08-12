@@ -86,7 +86,7 @@ def plotped(fi,attrs=None,output=None,format='svg',engine='dot'):
     else:
         return dot
 
-# %% ../nbs/00_plotped.ipynb 18
+# %% ../nbs/00_plotped.ipynb 19
 def get_args():
     "The arguments of graphped"
     import argparse
@@ -99,7 +99,7 @@ def get_args():
     parser.add_argument("-e", "--engine", default='dot', help="the engine of graphviz rendering the output picture")
     return parser
 
-# %% ../nbs/00_plotped.ipynb 22
+# %% ../nbs/00_plotped.ipynb 23
 def GraphPedCli():
     "The command line function of GraphPed"
     #test command line
@@ -113,7 +113,7 @@ def GraphPedCli():
     GraphPed(ped,attrs,args.output,args.format,args.engine)
     
 
-# %% ../nbs/00_plotped.ipynb 23
+# %% ../nbs/00_plotped.ipynb 24
 def GraphPed(ped,attrs=None,output=None,format='svg',engine='dot'):
     "Draw pedigree plot from ped"
     fids=ped.fid.unique()
@@ -123,7 +123,7 @@ def GraphPed(ped,attrs=None,output=None,format='svg',engine='dot'):
     if output is None:
         return dots
 
-# %% ../nbs/00_plotped.ipynb 27
+# %% ../nbs/00_plotped.ipynb 28
 def show(dot):
     "Plot a pedigree of a list of pedigrees in Jupyter Notebook"
     if isinstance(dot,list):

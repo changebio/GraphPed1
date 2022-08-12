@@ -14,6 +14,6 @@ digraph {
 	P1 -> P1xP2
 	P2 [shape=box fillcolor=aquamarine3 fontcolor=darkorange height=0.3 regular=0 shape=ellipse style=filled width=0.5]
 	P2 -> P1xP2
-	P1xP2 [label="" height=.1 shape=diamond width=.1]
 	P3xF1 [label="" height=.1 shape=diamond width=.1]
+	P1xP2 [label="" height=.1 shape=diamond width=.1]
 }
