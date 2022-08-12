@@ -3,14 +3,14 @@
 # %% auto 0
 __all__ = ['load_attributes', 'readped', 'update_attributes', 'plotped', 'get_args', 'GraphPedCli', 'GraphPed', 'show']
 
-# %% ../nbs/00_plotped.ipynb 3
+# %% ../nbs/00_plotped.ipynb 4
 import yaml
 import numpy as np
 import pandas as pd
 from graphviz import Digraph
 from IPython import display
 
-# %% ../nbs/00_plotped.ipynb 4
+# %% ../nbs/00_plotped.ipynb 5
 def load_attributes(yaml_file):
     "Load the self-defined attributes from a yaml file"
     with open(yaml_file, "r") as stream:
@@ -20,7 +20,7 @@ def load_attributes(yaml_file):
             print(exc)
     return yml
 
-# %% ../nbs/00_plotped.ipynb 8
+# %% ../nbs/00_plotped.ipynb 9
 def readped(file,attrs=None):
     ''' the number of traits in the input file should match with the number of traits in the attribute yaml file'''
     if attrs:
@@ -29,7 +29,7 @@ def readped(file,attrs=None):
         peds = pd.read_csv(file,header=None,names=['fid','iid','fathid','mothid','sex','trait'],sep='\t')
     return peds
 
-# %% ../nbs/00_plotped.ipynb 12
+# %% ../nbs/00_plotped.ipynb 13
 def update_attributes(r,attrs=None):
     "Assign each node specific attributes"
     #The basic attributes of a node
@@ -55,7 +55,7 @@ def update_attributes(r,attrs=None):
             pass
     return attributes
 
-# %% ../nbs/00_plotped.ipynb 13
+# %% ../nbs/00_plotped.ipynb 14
 def plotped(fi,attrs=None,output=None,format='svg',engine='dot'):
     "The core function of pedigree drawing"
     #nodes
@@ -86,7 +86,7 @@ def plotped(fi,attrs=None,output=None,format='svg',engine='dot'):
     else:
         return dot
 
-# %% ../nbs/00_plotped.ipynb 17
+# %% ../nbs/00_plotped.ipynb 18
 def get_args():
     "The arguments of graphped"
     import argparse
@@ -99,7 +99,7 @@ def get_args():
     parser.add_argument("-e", "--engine", default='dot', help="the engine of graphviz rendering the output picture")
     return parser
 
-# %% ../nbs/00_plotped.ipynb 21
+# %% ../nbs/00_plotped.ipynb 22
 def GraphPedCli():
     "The command line function of GraphPed"
     #test command line
@@ -113,7 +113,7 @@ def GraphPedCli():
     GraphPed(ped,attrs,args.output,args.format,args.engine)
     
 
-# %% ../nbs/00_plotped.ipynb 22
+# %% ../nbs/00_plotped.ipynb 23
 def GraphPed(ped,attrs=None,output=None,format='svg',engine='dot'):
     "Draw pedigree plot from ped"
     fids=ped.fid.unique()
@@ -123,7 +123,7 @@ def GraphPed(ped,attrs=None,output=None,format='svg',engine='dot'):
     if output is None:
         return dots
 
-# %% ../nbs/00_plotped.ipynb 26
+# %% ../nbs/00_plotped.ipynb 27
 def show(dot):
     "Plot a pedigree of a list of pedigrees in Jupyter Notebook"
     if isinstance(dot,list):
