@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: GraphPed
+      title: Functions
       url: plotped.html
     output: web
     title: graphped

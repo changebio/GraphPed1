@@ -1,0 +1,6 @@
+
+ad:
+    fillcolor:
+        1: 'white'
+        2: 'dimgrey'
+        -9: 'aquamarine3'

@@ -1,0 +1,18 @@
+
+ad:
+    fillcolor:
+        1: 'white'
+        2: 'dimgrey'
+        -9: 'aquamarine3'
+
+vcf:
+    style:
+        True: filled,setlinewidth(4)
+        False: filled
+    
+
+trim:
+    fontcolor:
+        True: darkorange
+        False: black
+    
