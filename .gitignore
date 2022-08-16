@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 bigest_fam*
 misspecified_gender*
 lod_err_fam*
 otherplots*
 Untitled*
 conda/
+=======
+Untitled*
+conda*
+>>>>>>> version1
 *.bak
 .gitattributes
 .last_checked
